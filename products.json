@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Camara 1",
+    "description": "blablabla",
+    "price": 280,
+    "image": "jdhjdjf",
+    "id": 1
+  },
+  {
+    "name": "Camara 2",
+    "description": "lololo",
+    "price": 350,
+    "image": "jrehtjrht",
+    "id": 2
+  }
+]
