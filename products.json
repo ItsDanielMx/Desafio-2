@@ -1,16 +1,23 @@
 [
   {
-    "name": "Camara 1",
-    "description": "blablabla",
-    "price": 280,
-    "image": "jdhjdjf",
+    "name": "ARRI ALEXA LF or MINI LF",
+    "description": "Una camara muy bonita que graba en 4K 60fps",
+    "price": 2500,
+    "image": "https://res.cloudinary.com/itsdanielmx/image/upload/v1653433855/img/ALEXA-Mini-LF-SP-47-MVF-2-left-front-white_a6zfrt.jpg",
     "id": 1
   },
-  {
-    "name": "Camara 2",
-    "description": "lololo",
-    "price": 350,
-    "image": "jrehtjrht",
+  { 
+    "name": "PANASONIC VARICAM LT", 
+    "description": "Una camara muy bonita que graba en 4K 60fps",
+    "price": 450 ,
+    "image": "https://res.cloudinary.com/itsdanielmx/image/upload/v1653433873/img/Panasonic-Varicam_qhixdc.jpg",
     "id": 2
+  },
+  {
+    "name": "ARRI ALEXA MINI CAMERA", 
+    "description": "Una camara muy bonita que graba en 4K 60fps",
+    "price": 875,
+    "image": "https://res.cloudinary.com/itsdanielmx/image/upload/v1653433863/img/Arri-Alexa-Mini-PL-1_y1dzww.jpg",
+    "id": 3
   }
 ]
