@@ -8,7 +8,7 @@ server.on("error", (error) => console.log(`Error en el servidor`));
 
 let numeroAleatorio = 0;
 let productoRandom = [];
-const fileSystem = new Manager("products.json");
+const fileSystem = new Manager("./products.json");
 
 const main = async () => {
   const productos = await fileSystem.getAll();
