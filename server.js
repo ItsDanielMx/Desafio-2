@@ -13,8 +13,7 @@ app.get('/productos', (request, response) => {
     obtenerProductos.getAll().then(result => response.send(result))
     })
 app.get('/productoRandom', (request, response) => {
-    obtenerProductos.getRandom().then(result => response.send(result))
-   
+    obtenerProductos.getRandom().then(result => response.send(result))  
     });    
 app.get('/*', (request,response) => {
     response.status(404,).send("<h1 style = 'color:red' align = 'center'>PAGINA NO ENCONTRADA</h1>")
